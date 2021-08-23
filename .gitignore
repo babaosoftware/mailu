@@ -1,0 +1,8 @@
+/data/
+/dkim/
+/filter/
+/mail/
+/overrides/
+/redis/
+/temp/
+/webmail
